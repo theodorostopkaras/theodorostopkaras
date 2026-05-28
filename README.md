@@ -21,6 +21,16 @@ I am interested in creating software to simulate and better understand the so-ca
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
+<p align="left">
+  <a href="https://www.researchgate.net/profile/Theodoros-Topkaras?ev=hdr_xprf" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+  </a>
+</p>
+<p align="left">
+  <a href="https://scholar.google.com/citations?user=ZCLaq3AAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-000000?style=for-the-badge&logo=google&logoColor=white"/>
+  </a>
+</p>
 
 You can contact me by email: topkaras@ph1.uni-koeln.de
 
