@@ -10,8 +10,6 @@ I am a PhD student at the University of Cologne.
 I am interested in creating software to simulate and better understand the so-called photodissociation regions, or, in short, PDRs.
 
 
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
