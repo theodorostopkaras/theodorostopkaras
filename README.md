@@ -66,11 +66,3 @@ You can contact me by email: topkaras@ph1.uni-koeln.de
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
-
----
