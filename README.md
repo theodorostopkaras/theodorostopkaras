@@ -20,7 +20,7 @@ I am interested in creating software to simulate and better understand the so-ca
 
 
 <p align="left">
-  <a href="https://yourwebsite.com](https://theodorostopkaras.github.io" target="_blank">
+  <a href="https://theodorostopkaras.github.io" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
