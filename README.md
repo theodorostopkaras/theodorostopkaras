@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=PhD+Student;Researcher" alt="Typing SVG" />
 </p>
----
 
 ## 🚀 About Me
 I am a PhD student at the University of Cologne. 
@@ -17,8 +16,6 @@ I am interested in creating software to simulate and better understand the so-ca
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-
 <p align="left">
   <a href="https://theodorostopkaras.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
