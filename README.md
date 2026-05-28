@@ -21,7 +21,7 @@ I am interested in creating software to simulate and better understand the so-ca
 
 <p align="left">
   <a href="https://theodorostopkaras.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
